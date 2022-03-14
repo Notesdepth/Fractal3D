@@ -1,0 +1,23 @@
+//Règle : séparer les valeurs d'un espace y comprit après les ":" QUE DES INT
+//Attention : pas deux fois la même variable
+//Initialisation
+
+//camera
+pos : 0 0 8
+vp : 0 0 3
+dirV : 0 0 0
+norm : 0 0 0
+fov : 60
+up : 0 1 0
+
+//ray
+dist : 10000
+it_max : 3
+
+//Sphere
+s_pos : 0 0 0
+s_rgb : 125 125 255
+s_ka : 0.2
+s_kd : 0.9
+s_ks : 0.5
+s_n : 1.0
